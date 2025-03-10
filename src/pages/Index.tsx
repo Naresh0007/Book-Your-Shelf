@@ -227,7 +227,7 @@ const Index = () => {
               <div className="relative group">
                 <div className="absolute -inset-2 bg-gradient-to-r from-accent to-primary/60 rounded-lg blur opacity-60 group-hover:opacity-80 transition duration-1000"></div>
                 <div className="relative">
-                  <Link to={`/books/${heroFeaturedBook.id}`} className="block">
+                  <Link to={`https://docs.google.com/presentation/d/1ZY8rwmJsgl_QbLiLvEUytWgGS07fM14O9xj4GeYAiaA/edit#slide=id.g3334aff7e30_0_19`} className="block">
                     <div className="bg-white p-3 rounded-lg shadow-lg transform transition-transform duration-300 hover:scale-105">
                       <div className="relative w-48 h-64 sm:w-56 sm:h-72">
                         <img 
@@ -236,7 +236,7 @@ const Index = () => {
                           className="w-full h-full object-cover rounded-md"
                         />
                         <div className="absolute top-2 right-2 bg-accent/90 text-white text-xs px-2 py-1 rounded-sm font-medium">
-                          Featured
+                          Joiin Our Event
                         </div>
                       </div>
                       <div className="mt-3 text-center">
