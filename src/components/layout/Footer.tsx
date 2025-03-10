@@ -23,7 +23,7 @@ const Footer: React.FC = () => {
               Your personal sanctuary for literature, where stories come alive and imagination thrives.
             </p>
             <div className="flex space-x-4 pt-2">
-              <a href="#" aria-label="Facebook" className="text-foreground hover:text-accent transition-colors">
+              <a href="https://www.facebook.com/profile.php?id=61573824721007" aria-label="Facebook" className="text-foreground hover:text-accent transition-colors">
                 <Facebook className="h-5 w-5" />
               </a>
               <a href="#" aria-label="Instagram" className="text-foreground hover:text-accent transition-colors">
